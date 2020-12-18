@@ -1,0 +1,26 @@
+C:\Users\cleme\OneDrive\Bureau\Projet .NET\Lecteur-ST-Console\bin\Debug\netcoreapp3.1\Lecteur-ST-Console.exe
+C:\Users\cleme\OneDrive\Bureau\Projet .NET\Lecteur-ST-Console\bin\Debug\netcoreapp3.1\Lecteur-ST-Console.deps.json
+C:\Users\cleme\OneDrive\Bureau\Projet .NET\Lecteur-ST-Console\bin\Debug\netcoreapp3.1\Lecteur-ST-Console.runtimeconfig.json
+C:\Users\cleme\OneDrive\Bureau\Projet .NET\Lecteur-ST-Console\bin\Debug\netcoreapp3.1\Lecteur-ST-Console.runtimeconfig.dev.json
+C:\Users\cleme\OneDrive\Bureau\Projet .NET\Lecteur-ST-Console\bin\Debug\netcoreapp3.1\Lecteur-ST-Console.dll
+C:\Users\cleme\OneDrive\Bureau\Projet .NET\Lecteur-ST-Console\bin\Debug\netcoreapp3.1\Lecteur-ST-Console.pdb
+C:\Users\cleme\OneDrive\Bureau\Projet .NET\Lecteur-ST-Console\obj\Debug\netcoreapp3.1\Lecteur-ST-Console.csprojAssemblyReference.cache
+C:\Users\cleme\OneDrive\Bureau\Projet .NET\Lecteur-ST-Console\obj\Debug\netcoreapp3.1\Lecteur-ST-Console.AssemblyInfoInputs.cache
+C:\Users\cleme\OneDrive\Bureau\Projet .NET\Lecteur-ST-Console\obj\Debug\netcoreapp3.1\Lecteur-ST-Console.AssemblyInfo.cs
+C:\Users\cleme\OneDrive\Bureau\Projet .NET\Lecteur-ST-Console\obj\Debug\netcoreapp3.1\Lecteur-ST-Console.csproj.CoreCompileInputs.cache
+C:\Users\cleme\OneDrive\Bureau\Projet .NET\Lecteur-ST-Console\obj\Debug\netcoreapp3.1\Lecteur-ST-Console.dll
+C:\Users\cleme\OneDrive\Bureau\Projet .NET\Lecteur-ST-Console\obj\Debug\netcoreapp3.1\Lecteur-ST-Console.pdb
+C:\Users\cleme\OneDrive\Bureau\Projet .NET\Lecteur-ST-Console\obj\Debug\netcoreapp3.1\Lecteur-ST-Console.genruntimeconfig.cache
+C:\Users\user\Documents\COURS B2B\Archi log\Lecteur-ST-Console\bin\Debug\netcoreapp3.1\Lecteur-ST-Console.exe
+C:\Users\user\Documents\COURS B2B\Archi log\Lecteur-ST-Console\bin\Debug\netcoreapp3.1\Lecteur-ST-Console.deps.json
+C:\Users\user\Documents\COURS B2B\Archi log\Lecteur-ST-Console\bin\Debug\netcoreapp3.1\Lecteur-ST-Console.runtimeconfig.json
+C:\Users\user\Documents\COURS B2B\Archi log\Lecteur-ST-Console\bin\Debug\netcoreapp3.1\Lecteur-ST-Console.runtimeconfig.dev.json
+C:\Users\user\Documents\COURS B2B\Archi log\Lecteur-ST-Console\bin\Debug\netcoreapp3.1\Lecteur-ST-Console.dll
+C:\Users\user\Documents\COURS B2B\Archi log\Lecteur-ST-Console\bin\Debug\netcoreapp3.1\Lecteur-ST-Console.pdb
+C:\Users\user\Documents\COURS B2B\Archi log\Lecteur-ST-Console\obj\Debug\netcoreapp3.1\Lecteur-ST-Console.csprojAssemblyReference.cache
+C:\Users\user\Documents\COURS B2B\Archi log\Lecteur-ST-Console\obj\Debug\netcoreapp3.1\Lecteur-ST-Console.AssemblyInfoInputs.cache
+C:\Users\user\Documents\COURS B2B\Archi log\Lecteur-ST-Console\obj\Debug\netcoreapp3.1\Lecteur-ST-Console.AssemblyInfo.cs
+C:\Users\user\Documents\COURS B2B\Archi log\Lecteur-ST-Console\obj\Debug\netcoreapp3.1\Lecteur-ST-Console.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\COURS B2B\Archi log\Lecteur-ST-Console\obj\Debug\netcoreapp3.1\Lecteur-ST-Console.dll
+C:\Users\user\Documents\COURS B2B\Archi log\Lecteur-ST-Console\obj\Debug\netcoreapp3.1\Lecteur-ST-Console.pdb
+C:\Users\user\Documents\COURS B2B\Archi log\Lecteur-ST-Console\obj\Debug\netcoreapp3.1\Lecteur-ST-Console.genruntimeconfig.cache
